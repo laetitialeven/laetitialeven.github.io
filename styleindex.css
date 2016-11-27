@@ -1,6 +1,7 @@
 body{
 	background-color:pink;
 
+
 }
 .card{
 	background-color:white;
@@ -11,8 +12,36 @@ body{
 .card-title{
 	font-size:200%;
   	color:pink;
+  	font-weight:bold;
 
 }
 .navbar{
 	background: pink;
 }
+.jumbotron{
+	background-color:pink;
+	color:#800020;
+	font-family:American Typewriter;
+	font-weight:bold;
+}
+.btn{
+	background-color:#800020;
+	border-color:#800020;
+
+}
+.btn:hover{
+	background-color:#800020;
+	border-color:#800020;
+
+}
+
+.btn-primary{
+	background-color:#800020;
+}
+.btn-lg{
+	background-color:#800020;
+}
+
+
+
+

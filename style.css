@@ -8,12 +8,12 @@ body{
   
 
 }
-.card-title{
-	font-size:200%;
-  	color:pink;
+.card-title {
+	font-size: 200%;
+  	color: #800020;
 
 }
 
-.custom-navbar-class{
+.custom-navbar-class {
 	background-color: pink;
 }
