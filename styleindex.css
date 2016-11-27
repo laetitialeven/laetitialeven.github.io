@@ -1,0 +1,18 @@
+body{
+	background-color:pink;
+
+}
+.card{
+	background-color:white;
+	font-family:American Typewriter;
+  
+
+}
+.card-title{
+	font-size:200%;
+  	color:pink;
+
+}
+.navbar{
+	background: pink;
+}
